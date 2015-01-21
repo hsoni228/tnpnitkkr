@@ -1,0 +1,56 @@
+#sub {
+	
+	
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-ms-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-o-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	border: 1px solid #D69E31;
+	color: #85592e;
+	cursor: pointer;
+	font: bold 15px Helvetica, Arial, sans-serif;
+	font-size:15px;
+	
+	margin: 20px 0 35px 15px;
+	position: absolute;
+	right:510px;
+	top:45px;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+	text-decoration:none;
+	padding: 5px 10px 5px 10px;
+}
+
+#sub2 {
+	
+	
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-ms-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-o-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	border: 1px solid #D69E31;
+	color: #85592e;
+	cursor: pointer;
+	font: bold 15px Helvetica, Arial, sans-serif;
+	font-size:15px;
+	
+	margin: 20px 0 35px 15px;
+	position: absolute;
+	right:430px;
+	top:45px;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+	text-decoration:none;
+	padding: 5px 10px 5px 10px;
+}
+
